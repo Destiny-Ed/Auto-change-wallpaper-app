@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>322544468341-9d4kujdguovnfg2ute29s7uav9nu1anp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.322544468341-9d4kujdguovnfg2ute29s7uav9nu1anp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>322544468341-kleu4ja9a1b1km8ofj8cu93d31dtpfvd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiiux1c00OA_h578BrB7ZampOd_x5Uo9I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>322544468341</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wallpaperApp</string>
+	<key>PROJECT_ID</key>
+	<string>wallpaper-app-84e3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wallpaper-app-84e3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:322544468341:ios:0a32a06d0389b06aa4d33c</string>
+</dict>
+</plist>

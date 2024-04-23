@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "127012041161",
+    "project_id": "wallpaper-app-tutorial-8e383",
+    "storage_bucket": "wallpaper-app-tutorial-8e383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127012041161:android:fcc5f7778d81e5c9cdf818",
+        "android_client_info": {
+          "package_name": "app.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127012041161-ggpfm6d32g9e3acvki6qb9fadgotu76v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNWudVnEGYzrEs1LlRowfumDjqFAmpvMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127012041161-ggpfm6d32g9e3acvki6qb9fadgotu76v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127012041161-1i3osuaj8tbnkq0cb71cff7vklt8l5cd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cognito.wallpaper.ap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127012041161:android:5e04b1dc0742f5a7cdf818",
+        "android_client_info": {
+          "package_name": "cognito.wallpaper.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127012041161-fao3nelpmh62vme2frt1clm2jj3vp8rt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cognito.wallpaper.app",
+            "certificate_hash": "a6d134d20ed231a9ed590955932dc9dcea67c16a"
+          }
+        },
+        {
+          "client_id": "127012041161-lq1pc1r55vvaoh3d82mri8atfkvrb408.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cognito.wallpaper.app",
+            "certificate_hash": "90ee854274821e57e32ae32fa818d2c80b53021d"
+          }
+        },
+        {
+          "client_id": "127012041161-ggpfm6d32g9e3acvki6qb9fadgotu76v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNWudVnEGYzrEs1LlRowfumDjqFAmpvMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127012041161-ggpfm6d32g9e3acvki6qb9fadgotu76v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127012041161-1i3osuaj8tbnkq0cb71cff7vklt8l5cd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cognito.wallpaper.ap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+ /Users/destinyed/Desktop/4k-wallpaper-app/.dart_tool/flutter_build/300a74f8f9c09721d9013bd919a6727d/native_assets.yaml: 
